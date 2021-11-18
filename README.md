@@ -1,4 +1,4 @@
-# spacecraft-anomaly-detection
+# Anomaly detection for spacecraft/satellite applications
 
 This project contains experiments with algorithms to identify anomalies in multivariate series with a focus on spacecraft applications.
 
