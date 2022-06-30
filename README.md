@@ -37,6 +37,7 @@ General anomaly detection:
 
 Aerospace spacecraft/satellite telemetry specific:
 
+- [Polaris](https://docs.polarisml.space/en/latest/) **RECOMMENDED**
 - [Satellite-Telemetry-Anomaly-Detection](https://github.com/sapols/Satellite-Telemetry-Anomaly-Detection)
 - [ESA ACF - Anomaly Detection in Satellite Telemetry](https://www.esa.int/gsp/ACT/coffee/2020-09-11-%20AnomalyDetection/)
 - [satellite-telemetry-project](https://jovian.ai/amgd2112/satellite-telemetry-project)
@@ -45,3 +46,7 @@ Aerospace spacecraft/satellite telemetry specific:
 Embedded bus (CAN, etc.) oriented:
 
 - [CANBus Traffic Anomaly Detection with LSTM and Autoencoders](https://github.com/nhorro/can-anomaly-detection)
+
+Datasets
+
+- [Open Source Global Network of Satellite Database](https://db.satnogs.org/)
